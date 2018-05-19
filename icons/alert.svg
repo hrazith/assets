@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="21px" viewBox="0 0 23 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01-copy-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-36.000000, -510.000000)">
+        <g id="Group-13" transform="translate(22.000000, 490.000000)">
+            <g id="Group" transform="translate(15.000000, 21.000000)">
+                <path d="M11.1849447,0.518267268 L20.4936735,17.4432287 C20.7598298,17.9271494 20.583297,18.535207 20.0993763,18.8013633 C19.9517313,18.8825681 19.7859605,18.9251474 19.6174576,18.9251474 L1,18.9251474 C0.44771525,18.9251474 2.10942375e-15,18.4774322 1.99840144e-15,17.9251474 C1.99840144e-15,17.7566445 0.042579351,17.5908737 0.123784091,17.4432287 L9.43251287,0.518267268 C9.69866925,0.0343465842 10.3067268,-0.142186267 10.7906475,0.123970109 C10.9568072,0.215357953 11.0935568,0.352107553 11.1849447,0.518267268 Z" id="Triangle" stroke="#E41313" fill="#FFFFFF"></path>
+                <text id="!" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#D0021B">
+                    <tspan x="9" y="15">!</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
