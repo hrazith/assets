@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="29px" viewBox="0 0 30 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group-2-Copy" transform="translate(-5.000000, -5.000000)" stroke="#151945" stroke-width="1.4">
+            <path d="M18.6757367,32 C26.0345241,32 32,26.1797017 32,19 C32,17.1654373 31.610509,15.4196312 30.9078052,13.8370035 C28.8604239,9.22589661 24.1542013,6 18.6757367,6 C12.7540956,6 7.73469003,9.76891966 6,14.9822596" id="Oval" transform="translate(19.000000, 19.000000) rotate(-138.000000) translate(-19.000000, -19.000000) "></path>
+            <polyline id="Star" stroke-linejoin="round" transform="translate(19.040622, 22.423601) rotate(28.000000) translate(-19.040622, -22.423601) " points="21.7347068 31.8370735 19.0406221 21.9251833 15.3324182 23.7617856 16.0406221 19.8717994 13.0406221 17.1168959 17.1865202 16.5493546 19.0406221 13.0101282 20.8947241 16.5493546 25.0406221 17.1168959 22.0406221 19.8717994"></polyline>
+            <path d="M30,19.3769531 L32,18" id="Path-2"></path>
+            <path d="M31,22.3769531 L34,24" id="Path-2-Copy"></path>
+        </g>
+    </g>
+</svg>
